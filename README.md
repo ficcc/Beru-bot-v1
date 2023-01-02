@@ -38,7 +38,9 @@ Make a config.json file in the root directory of the project and add:
 }
 ```
 
-#Added Features
+# Added Features 
 ## Anime Database search
+  Use command anime for single search or use adb for 10 closest search
 ## Replit serverhost
-## Nepse search
+  Fork it in replit and setup Uptimerobot as shown by https://www.freecodecamp.org/news/create-a-discord-bot-with-javascript-nodejs/
+
