@@ -37,3 +37,8 @@ Make a config.json file in the root directory of the project and add:
 
 }
 ```
+
+#Added Features
+## Anime Database search
+## Replit serverhost
+## Nepse search
