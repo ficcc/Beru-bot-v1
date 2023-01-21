@@ -41,16 +41,18 @@ Make a config.json file in the root directory of the project and add:
 # Added Features 
 ## Anime Database search
   Use command anime for single search or use adb for 10 closest search
-  (Using -anime command)
-  ![image](https://user-images.githubusercontent.com/61610928/213840322-066b63da-cca6-4498-b88e-7097ddfa03c4.png)
+  ### (Using -anime command)
+  ![image](https://user-images.githubusercontent.com/61610928/213840500-4ccc11de-19c9-4f9b-b752-805facb68c26.png)
+
   
-  (Using -adb command)
+ ### (Using -adb command)
   ![image](https://user-images.githubusercontent.com/61610928/213840424-498e9bc5-1315-49e0-8012-4bc17add9816.png)
 
 
   
 ## Nepse(Nepal Stock Exchange) search (Not working as API server has been shutdown)
   Gives you NEPSE today price
+  
   ![image](https://user-images.githubusercontent.com/61610928/213840273-e1e01bf5-84ac-41f9-b142-50cef4aa12a0.png)
 
   
