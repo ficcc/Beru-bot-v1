@@ -60,5 +60,5 @@ Make a config.json file in the root directory of the project and add:
   Fork it in replit and setup Uptimerobot as shown by https://www.freecodecamp.org/news/create-a-discord-bot-with-javascript-nodejs/
   
 ## Invitation link
-[Invitation link](https://discord.com/api/oauth2/authorize?client_id=846815613421617152&permissions=8&scope=bot)
+[Invitation link](https://discord.com/api/oauth2/authorize?client_id=847418935488806922&permissions=8&scope=bot)
 
