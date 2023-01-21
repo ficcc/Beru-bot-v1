@@ -1,4 +1,4 @@
-# A Discord Music Bot written in JavaScript by galnir(https://github.com/galnir), the discord.js library and discord.js-commando framework
+# A Discord Music Bot written in JavaScript by galnir(https://github.com/galnir this is the extension of older version), the discord.js library and discord.js-commando framework
 
 ### Installing the dependencies
 
